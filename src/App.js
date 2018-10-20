@@ -15,7 +15,7 @@ class App extends Component {
     this.setState({
       persons: [ {name: 'Gopal', age: 35},
                  {name: 'Lala', age: 30},
-                  {name: 'Mudit', age: 29}
+                  {name: 'Mala', age: 29}
                ]
     });
     console.log('This Button is Clicked');
